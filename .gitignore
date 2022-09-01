@@ -1,0 +1,22 @@
+# Misc
+.DS_Store
+._outside-the-wire.mp4
+._soul.mp4
+._tom-and-jerry.mp4
+._video1.mp4
+._*
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Production
+/build
+
+# Dependency directories
+/node_modules
+
+# Nuxt.js build / generate output
+.nuxt
+dist
