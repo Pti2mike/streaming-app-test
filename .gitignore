@@ -16,6 +16,8 @@ npm-debug.log*
 
 # Dependency directories
 /node_modules
+backend/node_modules
+frontend/node_modules
 
 # Nuxt.js build / generate output
 .nuxt
